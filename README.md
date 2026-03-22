@@ -1,6 +1,6 @@
 # Vallabh Singhal
 First-year B.Tech student building skills in programming, problem-solving, and digital technologies.
-# I'm Vallabh Singha;
+# I'm Vallabh Singhal
 🎓 First Year B.Tech Student  
 🏫 VIT Bhopal University  
 Branch: B.Tech Computer Science 
